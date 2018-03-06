@@ -279,6 +279,5 @@ public class MainActivity extends AppCompatActivity
         Log.d("View profile uid" ,v.getTag().toString());
         openProfile(v.getTag().toString());
     }
-
 }
 
